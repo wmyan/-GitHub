@@ -2,7 +2,7 @@
 - 第一次用Github上的上
 ###  - 对自文件的第一次修l改
 1. [x] **This is blod text.** 
-         - __This is blod text.__
+          - __This is blod text.__
 2. [ ] *This text is italicized.* 
          - _This text is italicized._
 3. [ ] ~~This was mistaken text~~
